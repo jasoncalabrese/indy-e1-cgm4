@@ -1,31 +1,5 @@
 [
   {
-    "trend_arrow": "NOT_COMPUTABLE", 
-    "display_time": "2016-06-22T22:32:50-07:00", 
-    "noise": 3, 
-    "system_time": "2016-06-23T05:24:30-07:00", 
-    "direction": "NOT COMPUTABLE", 
-    "sgv": 261, 
-    "dateString": "2016-06-22T22:32:50-07:00", 
-    "date": 1466659970000, 
-    "device": "openaps://cgm", 
-    "type": "sgv", 
-    "glucose": 261
-  }, 
-  {
-    "trend_arrow": "NOT_COMPUTABLE", 
-    "display_time": "2016-06-22T22:32:50-07:00", 
-    "noise": 3, 
-    "system_time": "2016-06-23T05:24:30-07:00", 
-    "direction": "NOT COMPUTABLE", 
-    "sgv": 258, 
-    "dateString": "2016-06-22T22:32:50-07:00", 
-    "date": 1466659970000, 
-    "device": "openaps://cgm", 
-    "type": "sgv", 
-    "glucose": 258
-  }, 
-  {
     "trend_arrow": "DOUBLE_DOWN", 
     "display_time": "2016-06-22T22:47:49-07:00", 
     "noise": 2, 
@@ -123,6 +97,22 @@
   }, 
   {
     "trend_arrow": "NOT_COMPUTABLE", 
+    "display_time": "2016-06-23T03:02:47-07:00", 
+    "noise": 3, 
+    "system_time": "2016-06-23T09:54:28-07:00", 
+    "direction": "NOT COMPUTABLE", 
+    "sgv": 168, 
+    "dateString": "2016-06-23T03:02:47-07:00", 
+    "date": 1466676167000, 
+    "unfiltered": 169088, 
+    "filtered": 191744, 
+    "device": "openaps://cgm", 
+    "rssi": 444, 
+    "type": "sgv", 
+    "glucose": 168
+  }, 
+  {
+    "trend_arrow": "NOT_COMPUTABLE", 
     "display_time": "2016-06-23T02:57:47-07:00", 
     "noise": 3, 
     "system_time": "2016-06-23T09:49:27-07:00", 
@@ -136,21 +126,5 @@
     "rssi": 194, 
     "type": "sgv", 
     "glucose": 167
-  }, 
-  {
-    "trend_arrow": "NOT_COMPUTABLE", 
-    "display_time": "2016-06-23T02:52:48-07:00", 
-    "noise": 3, 
-    "system_time": "2016-06-23T09:44:28-07:00", 
-    "direction": "NOT COMPUTABLE", 
-    "sgv": 157, 
-    "dateString": "2016-06-23T02:52:48-07:00", 
-    "date": 1466675568000, 
-    "unfiltered": 192544, 
-    "filtered": 181120, 
-    "device": "openaps://cgm", 
-    "rssi": 444, 
-    "type": "sgv", 
-    "glucose": 157
   }
 ]
