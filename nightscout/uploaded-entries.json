@@ -350,5 +350,21 @@
     "rssi": 179, 
     "type": "sgv", 
     "glucose": 143
+  }, 
+  {
+    "trend_arrow": "NOT_COMPUTABLE", 
+    "display_time": "2016-06-24T18:05:23-07:00", 
+    "noise": 3, 
+    "system_time": "2016-06-25T00:02:09-07:00", 
+    "direction": "NOT COMPUTABLE", 
+    "sgv": 63, 
+    "dateString": "2016-06-24T18:05:23-07:00", 
+    "date": 1466816723000, 
+    "unfiltered": 82160, 
+    "filtered": 95920, 
+    "device": "openaps://cgm", 
+    "rssi": 190, 
+    "type": "sgv", 
+    "glucose": 63
   }
 ]
