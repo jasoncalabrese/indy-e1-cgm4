@@ -190,5 +190,21 @@
     "rssi": 178, 
     "type": "sgv", 
     "glucose": 121
+  }, 
+  {
+    "trend_arrow": "45_UP", 
+    "display_time": "2016-06-26T10:10:15-07:00", 
+    "noise": 1, 
+    "system_time": "2016-06-26T16:07:01-07:00", 
+    "direction": "FortyFiveUp", 
+    "sgv": 132, 
+    "dateString": "2016-06-26T10:10:15-07:00", 
+    "date": 1466961015000, 
+    "unfiltered": 169184, 
+    "filtered": 159616, 
+    "device": "openaps://cgm", 
+    "rssi": 417, 
+    "type": "sgv", 
+    "glucose": 132
   }
 ]
