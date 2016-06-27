@@ -1,6 +1,22 @@
 [
   {
     "trend_arrow": "45_UP", 
+    "system_time": "2016-06-27T09:21:58", 
+    "noise": 1, 
+    "direction": "FortyFiveUp", 
+    "sgv": 95, 
+    "display_time": "2016-06-27T03:25:12", 
+    "date": 1467023112000.0, 
+    "dateString": "2016-06-27T03:25:12", 
+    "unfiltered": 133728, 
+    "filtered": 121088, 
+    "device": "openaps://cgm", 
+    "rssi": 687, 
+    "type": "sgv", 
+    "glucose": 95
+  }, 
+  {
+    "trend_arrow": "45_UP", 
     "system_time": "2016-06-27T09:16:57", 
     "noise": 1, 
     "direction": "FortyFiveUp", 
