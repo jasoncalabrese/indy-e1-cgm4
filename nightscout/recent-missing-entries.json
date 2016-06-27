@@ -8,10 +8,7 @@
     "sgv": 144, 
     "dateString": "2016-06-26T18:35:14-07:00", 
     "device": "openaps://cgm", 
-    "unfiltered": 188032, 
-    "rssi": 191, 
     "date": 1466991314000, 
-    "filtered": 186112, 
     "type": "sgv", 
     "glucose": 144
   }, 
