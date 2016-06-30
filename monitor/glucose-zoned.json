@@ -824,24 +824,8 @@
     "sgv": 180, 
     "dateString": "2016-06-29T23:09:41-07:00", 
     "device": "openaps://cgm", 
-    "unfiltered": 213344, 
-    "rssi": 192, 
     "date": 1467266981000.0, 
-    "filtered": 217312, 
     "type": "sgv", 
     "glucose": 180
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "display_time": "2016-06-29T23:04:40-07:00", 
-    "noise": 1, 
-    "direction": "Flat", 
-    "system_time": "2016-06-30T05:56:20-07:00", 
-    "sgv": 184, 
-    "dateString": "2016-06-29T23:04:40-07:00", 
-    "device": "openaps://cgm", 
-    "date": 1467266680000.0, 
-    "type": "sgv", 
-    "glucose": 184
   }
 ]
