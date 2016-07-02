@@ -113,6 +113,22 @@
   }, 
   {
     "trend_arrow": "45_DOWN", 
+    "display_time": "2016-07-02T12:39:27-07:00", 
+    "noise": 1, 
+    "system_time": "2016-07-02T19:31:07-07:00", 
+    "direction": "FortyFiveDown", 
+    "sgv": 98, 
+    "dateString": "2016-07-02T12:39:27-07:00", 
+    "device": "openaps://cgm", 
+    "unfiltered": 134080, 
+    "rssi": 211, 
+    "date": 1467488367000, 
+    "filtered": 144480, 
+    "type": "sgv", 
+    "glucose": 98
+  }, 
+  {
+    "trend_arrow": "45_DOWN", 
     "display_time": "2016-07-02T12:34:27-07:00", 
     "noise": 1, 
     "system_time": "2016-07-02T19:26:07-07:00", 
